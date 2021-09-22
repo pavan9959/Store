@@ -48,9 +48,9 @@ const Cart = (props) => {
       <table border="1">
         <thead>
           <tr>
-            <th>Product</th>
-            <th>Price</th>
-            <th>Quantity</th>
+            <th style={{ width: "150px" }}>Product</th>
+            <th style={{ width: "150px" }}>Price</th>
+            <th style={{ width: "150px" }}>Quantity</th>
             <th style={{ width: "150px" }}>Total</th>
           </tr>
         </thead>
